@@ -1,7 +1,7 @@
 name: Edwardspace
 favicon: null
-layout_spectrum: 0.75622
-typography_spectrum: 0.6909596277400851
+layout_spectrum: 1
+typography_spectrum: 0.49931
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#090e11'
-    - '#484e5e'
-    - '#c99774'
-    - '#e7c6a5'
-  brandStrength: 0.9066306941676885
-  lightness: 0.5
-  saturation: 0.5
+    - '#cee1d9'
+    - '#b5ad92'
+    - '#86826e'
+    - '#282d29'
+    - '#6f6757'
+  brandStrength: 0
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 0.5
 purpose: []
