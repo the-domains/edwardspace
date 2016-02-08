@@ -1,25 +1,30 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: DESCRIPTION typing test
-datePublished: '2016-02-08T15:27:13.308Z'
-dateModified: '2016-02-08T15:05:54.778Z'
+datePublished: '2016-02-08T19:14:43.811Z'
+dateModified: '2016-02-08T19:14:40.007Z'
 title: TITLE typing test
 author: []
+sourcePath: _posts/2016-02-08-title-typing-test.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-title-typing-test.md
-published: true
 url: title-typing-test/index.html
-_type: Article
+_type: WebPage
 
 ---
-second post typing test
+* first
+* second
+* items on
+* bullet point list
+* second post typing test 
+*
