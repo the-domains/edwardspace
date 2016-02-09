@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Navigation "Text"'
-datePublished: '2016-02-08T19:02:18.243Z'
-dateModified: '2016-02-08T19:01:50.209Z'
+datePublished: '2016-02-09T21:05:21.476Z'
+dateModified: '2016-02-09T21:05:17.334Z'
 title: 'Naviagation "Title"'
 author: []
 sourcePath: _posts/2016-02-08-naviagation-title.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: naviagation-title/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac1428a8-3367-457d-9319-90420fca6e2e.jpg)
